@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm PJSM
+
+📍 Braga, Portugal  
+
+🔐 Self-taught Cybersecurity learner focused on SOC & Blue Team.  
+🚀 Building detection rules, IR labs, and automation scripts.  
+
+- 🔭 I’m currently working on CTFs.
+- 🌱 I’m currently learning Python and studying for **CompTIA Security+**.
+- 👯 I’m looking to collaborate on CTFs and Open Source projects.
+- ⚡ Fun fact: overly enthusiastic BJJ practitioner.
+
+### 🛠 Skills
+- SIEM (ELK, Wazuh, Splunk Free)
+- Sysmon & Sigma rules
+- Bash / Python / PowerShell
+- Log analysis & incident response
+
+### 📂 Projects
+- SIEM Detection Lab
+- SOC Practice Environment
+- Automation scripts for Blue Team tasks
 
 <!--
-**pjsm-it/pjsm-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Cybersecurity Platforms
+- TryHackMe: [your-username](https://tryhackme.com/p/your-username)
+- Hack The Box: [your-username](https://www.hackthebox.eu/home/users/profile/your-username)
+-->
 
-Here are some ideas to get you started:
+<!--
+### 🌐 Portfolio
+- [My GitHub Pages](https://your-portfolio-link)
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Contact
+- Email: pjsm.it@proton.me
+<!--
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 -->
