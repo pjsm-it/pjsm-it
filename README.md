@@ -32,8 +32,7 @@
 - [My GitHub Pages](https://your-portfolio-link)
 -->
 
-### 📫 Contact
+### 📫 Contacts
 - Email: pjsm.it@proton.me
-<!--
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
--->
+- LinkedIn: https://www.linkedin.com/in/paulojsm/
+- Medium: https://medium.com/@pjsm.it
