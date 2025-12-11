@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on CTFs.
 - 🌱 I’m currently learning Python and studying for **CompTIA Security+**.
 - 👯 I’m looking to collaborate on CTFs and Open Source projects.
-- ⚡ Fun fact: overly enthusiastic BJJ practitioner.
+- ⚡ Fun fact: overly enthusiastic BJJ practitioner :karate:.
 
 ### 🛠 Skills
 - SIEM (ELK, Wazuh, Splunk Free)
@@ -21,16 +21,12 @@
 - SOC Practice Environment
 - Automation scripts for Blue Team tasks
 
-<!--
 ### 🌐 Cybersecurity Platforms
-- TryHackMe: [your-username](https://tryhackme.com/p/your-username)
-- Hack The Box: [your-username](https://www.hackthebox.eu/home/users/profile/your-username)
--->
+- Hack The Box: [nulluser000](https://app.hackthebox.com/users/2923222)
+- Try Hack Me: [pjsm.it](https://tryhackme.com/p/pjsm.it)
 
-<!--
 ### 🌐 Portfolio
-- [My GitHub Pages](https://your-portfolio-link)
--->
+- [My GitHub Pages](https://pjsm-it.github.io)
 
 ### 📫 Contacts
 - Email: pjsm.it@proton.me
