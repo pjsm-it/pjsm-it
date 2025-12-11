@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on CTFs.
 - 🌱 I’m currently learning Python and studying for **CompTIA Security+**.
 - 👯 I’m looking to collaborate on CTFs and Open Source projects.
-- ⚡ Fun fact: overly enthusiastic BJJ practitioner :karate:.
+- ⚡ Fun fact: overly enthusiastic BJJ practitioner 🥋.
 
 ### 🛠 Skills
 - SIEM (ELK, Wazuh, Splunk Free)
