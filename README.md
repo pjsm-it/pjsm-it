@@ -32,8 +32,3 @@
 - Email: pjsm.it@proton.me
 - LinkedIn: https://www.linkedin.com/in/paulojsm/
 - Medium: https://medium.com/@pjsm.it
-
-### My Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjsm-it&layout=compact)
-
