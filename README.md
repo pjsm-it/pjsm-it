@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**pjsm-it/pjsm-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a **Full Stack CRUD Web Application** to manage data efficiently and demonstrate both frontend and backend skills.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: pjsm.it@proton.me
+- ⚡ Fun fact: overly enthusiastic BJJ practitioner.
+
+I'm **Paulo Melo**, a **Junior Web Developer** currently seeking my first opportunity in the tech industry.
+
+I have an academic background in **Computer Engineering** (University of Minho) and completed a **Full Stack Web Development bootcamp**, where I built hands-on web applications using modern frontend and backend technologies.
+
+### 💻 Tech Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- Angular
+- Node.js, Express (learning & practicing)
+- Git & GitHub
+
+### 🚀 Current Focus
+- Strengthening my frontend and backend fundamentals  
+- Building personal projects and a professional portfolio  
+- Writing clean, accessible, and maintainable code
+
+### 📫 Get in touch
+- GitHub: https://github.com/pjsm-it
+- LinkedIn: https://www.linkedin.com/in/paulojsm/
+
+Thanks for visiting my profile!
