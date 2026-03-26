@@ -23,7 +23,9 @@ I have an academic background in **Computer Engineering** (University of Minho) 
 - Writing clean, accessible, and maintainable code
 
 ### 📫 Get in touch
+- Email: pjsm.it@proton.me
 - GitHub: https://github.com/pjsm-it
 - LinkedIn: https://www.linkedin.com/in/paulojsm/
+- Medium: https://medium.com/@pjsm.it
 
 Thanks for visiting my profile!
