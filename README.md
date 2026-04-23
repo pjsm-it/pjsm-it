@@ -12,9 +12,10 @@ I'm **Paulo Melo**, a **Junior Web Developer** currently seeking my first opport
 I have an academic background in **Computer Engineering** (University of Minho) and completed a **Full Stack Web Development bootcamp**, where I built hands-on web applications using modern frontend and backend technologies.
 
 ### 💻 Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript 
 - Angular
 - Node.js, Express (learning & practicing)
+- TSQL, PostgreSQL, MySQL
 - Git & GitHub
 
 ### 🚀 Current Focus
