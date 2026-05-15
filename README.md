@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a **Full Stack CRUD Web Application** to manage data efficiently and demonstrate both frontend and backend skills.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python (scripting.
 - 📫 How to reach me: pjsm.it@proton.me
 - ⚡ Fun fact: overly enthusiastic BJJ practitioner.
 
